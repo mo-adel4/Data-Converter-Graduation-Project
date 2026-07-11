@@ -4,7 +4,9 @@
 <b>Department:</b> Electronics & Communications Engineering — Aswan University<br>
 <b>Track:</b> IC Design
 </p>
+
 ---
+
 <p align="center"><sub><i>Schematics and other design files (simulations, layout, reports) will be added progressively as the project moves forward.</i></sub></p>
 
 ---
