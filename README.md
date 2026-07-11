@@ -17,11 +17,6 @@
 Main stack: **IIC-OSIC-TOOLS** (open-source IC design tools, maintained by the IEEE IIC community) — bundles:
 Repo: [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS)
 
-- **Xschem** — schematic capture
-- **Ngspice** — SPICE simulation
-- **Magic** — layout
-- **KLayout** — layout viewing/DRC
-- **Netgen** — LVS
 
 
 > Add any other tool repos you settle on below (formal PDK repos, OpenLane, verification tools, etc.)
