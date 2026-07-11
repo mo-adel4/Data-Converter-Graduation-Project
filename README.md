@@ -4,7 +4,7 @@
 **Track:**  IC Design
 
 
-files and other design files (simulations, layout, reports) will be added progressively as the project moves forward.
+####files and other design files (simulations, layout, reports) will be added progressively as the project moves forward.
 ---
 
 ## 📖 [Reference Books](https://github.com/mo-adel4/Data-Converter-Graduation-Project/tree/main/books)
