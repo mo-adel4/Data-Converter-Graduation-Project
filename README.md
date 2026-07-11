@@ -12,6 +12,8 @@
 ---
 
 ## 📖 [Reference Books](https://github.com/mo-adel4/Data-Converter-Graduation-Project/tree/main/books)
+Razavi_Design_of_Analog_CMOS_ICs 
+Jacob_Baker_CMOS_Circuit_Design_Layout_Simulation
 
 ---
 
