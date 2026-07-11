@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tools (Free / Open Source)
+## 🛠️ Tools & Important Links
 
 
 Main stack: **IIC-OSIC-TOOLS** (open-source IC design tools, maintained by the IEEE IIC community) — bundles:
