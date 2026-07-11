@@ -12,10 +12,14 @@
 ---
 
 ## 🛠️ Tools & Important Links
-
-
-Main stack: **IIC-OSIC-TOOLS** (open-source IC design tools, maintained by the IEEE IIC community) — bundles:
+**IIC-OSIC-TOOLS** (open-source IC design tools, maintained by the IEEE IIC community) — bundles:
 Repo: [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS)
+
+**CMOSedu** — Learning resources for microelectronics
+Site: [cmosedu.com](https://cmosedu.com/)
+
+**Model Files** — Netlists & device models for learning microelectronics
+Link: [Model Files – Learning Microelectronics](https://analogicdesign.com/students/netlists-models/model-files/)
 
 
 
