@@ -22,7 +22,7 @@
 **IIC-OSIC-TOOLS** (open-source IC design tools, maintained by the IEEE IIC community) — bundles:
 Repo: [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS)
 
-**EE628 Tools** — Boris Murmann's Stanford data converter course, tools folder
+**EE628 Tools** — **Boris Murmann's** Stanford data converter course, tools folder
 Link: [EE628 – Tools](https://github.com/bmurmann/EE628/tree/main/3_Tools)
 
 **CMOSedu** — Learning resources for microelectronics
