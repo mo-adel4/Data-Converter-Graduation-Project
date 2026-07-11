@@ -19,15 +19,6 @@ Repo: [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS)
 
 
 
-> Add any other tool repos you settle on below (formal PDK repos, OpenLane, verification tools, etc.)
-
----
-
-
-
-
----
-
 ## 📝 Meeting Log
 
 ### Meeting 1 — [date]
