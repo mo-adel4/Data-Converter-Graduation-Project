@@ -28,10 +28,9 @@ Link: [Model Files – Learning Microelectronics](https://analogicdesign.com/stu
 | # | Date | Day | Tasks | Notes |
 |---|---|---|---|---|
 | 1 | 11 July 2026 | Saturday |ch(1-2) from Razavi ,ch(9) from Baker | Project defined: mixed-signal Data Converter. Tools & books decided. |
-
-| 3 | 25 July 2026 | Saturday |  |  |
-| 4 | 01 August 2026 | Saturday |  |  |
-| 5 | 08 August 2026 | Saturday |  |  |
-| 6 | 15 August 2026 | Saturday |  |  |
-| 7 | 22 August 2026 | Saturday |  |  |
-| 8 | 29 August 2026 | Saturday |  |  |
+| 2 | 25 July 2026 | Saturday |  |  |
+| 3 | 01 August 2026 | Saturday |  |  |
+| 4 | 08 August 2026 | Saturday |  |  |
+| 5 | 15 August 2026 | Saturday |  |  |
+| 6 | 22 August 2026 | Saturday |  |  |
+| 7 | 29 August 2026 | Saturday |  |  |
