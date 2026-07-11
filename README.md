@@ -6,14 +6,8 @@
 
 ---
 
-## 📖 Reference Books
+## 📖 [Reference Books](https://github.com/mo-adel4/Data-Converter-Graduation-Project/tree/main/books)
 
-| Book | Author | Focus |
-|---|---|---|
-| *Design of Analog CMOS Integrated Circuits* | Behzad Razavi | Core analog IC design theory |
-| *CMOS Circuit Design, Layout, and Simulation* | R. Jacob Baker | Practical design + layout flow |
-
-> Add data-converter-specific references here later (e.g. Razavi's *Data Conversion System Design*, Maloberti's ADC/DAC book) once you pick a topology.
 
 ---
 
