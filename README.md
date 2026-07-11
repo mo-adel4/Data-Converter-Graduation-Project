@@ -1,9 +1,10 @@
 # Mixed-Signal Data Converter — Graduation Project
 
 **Department:** Electronics & Communications Engineering — Aswan University
-**Track:** Analog IC Design
-**Project:** Analog-heavy, mixed-signal Data Converter (ADC/DAC)
+**Track:**  IC Design
 
+
+files and other design files (simulations, layout, reports) will be added progressively as the project moves forward.
 ---
 
 ## 📖 [Reference Books](https://github.com/mo-adel4/Data-Converter-Graduation-Project/tree/main/books)
