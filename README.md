@@ -23,11 +23,15 @@ Link: [Model Files – Learning Microelectronics](https://analogicdesign.com/stu
 
 
 
-## 📝 Meeting Log
+## 📅 Meeting Schedule
 
-### Meeting 1 — [date]
-- Kickoff meeting for graduation project.
-- Project defined: mixed-signal Data Converter (analog-heavy, some digital).
-- Decided to work from Razavi + Jacob Baker as core references.
-- Tooling decision: use free/open-source EDA tools (IIC-OSIC-TOOLS stack) instead of licensed Cadence.
-- Action: set up this GitHub repo as the central hub for resources, links, and progress tracking.
+| # | Date | Day | Tasks | Notes |
+|---|---|---|---|---|
+| 1 | 11 July 2026 | Saturday |ch(1-2) from Razavi ,ch(9) from Baker | Project defined: mixed-signal Data Converter. Tools & books decided. |
+
+| 3 | 25 July 2026 | Saturday |  |  |
+| 4 | 01 August 2026 | Saturday |  |  |
+| 5 | 08 August 2026 | Saturday |  |  |
+| 6 | 15 August 2026 | Saturday |  |  |
+| 7 | 22 August 2026 | Saturday |  |  |
+| 8 | 29 August 2026 | Saturday |  |  |
