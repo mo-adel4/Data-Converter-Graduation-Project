@@ -38,9 +38,10 @@ Link: [Model Files – Learning Microelectronics](https://analogicdesign.com/stu
 | # | Date | Day | Tasks | Notes |
 |---|---|---|---|---|
 | 1 | 11 July 2026 | Saturday | ch(1-2) from Razavi, ch(9) from Baker | Project defined: mixed-signal Data Converter. Tools & books decided. |
-| 2 | 25 July 2026 | Saturday |  |  |
-| 3 | 01 August 2026 | Saturday |  |  |
-| 4 | 08 August 2026 | Saturday |  |  |
-| 5 | 15 August 2026 | Saturday |  |  |
-| 6 | 22 August 2026 | Saturday |  |  |
-| 7 | 29 August 2026 | Saturday |  |  |
+| 2 | 25 July 2026 | Saturday |  | Each member presented the work completed and progress made. |
+| 3 | 01 August 2026 | Saturday | Ch. 20 — Jacob | First section of Chapter 20 was explained. |
+| 4 | 04 August 2026 | Tuesday | Ch. 21 — Jacob, Single-Stage Amplifiers — Razavi | Completed the remaining sections of Ch. 20, including cascoding and current mirrors. |
+| 5 | 08 August 2026 | Saturday |  | Meeting cancelled. |
+| 6 | 15 August 2026 | Saturday |  |  |
+| 7 | 22 August 2026 | Saturday |  |  |
+| 8 | 29 August 2026 | Saturday |  |  |
