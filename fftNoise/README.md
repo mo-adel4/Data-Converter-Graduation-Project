@@ -9,7 +9,7 @@ MATLAB example and reference paper on measuring signal and noise levels from an 
 | `fftNoise.m` | [Download](./fftNoise.m) |
 | `2012fftnoise.pdf` | [Download](./2012fftnoise.pdf) |
 
-`fftNoise.m`[download](https://raw.githubusercontent.com/mo-adel4/Data-Converter-Graduation-Project/main/fftNoise/fftNoise.m)
+`fftNoise.m`[download](https://raw.githubusercontent.com/mo-adel4/Data-Converter-Graduation-Project/main/fftNoise/2012fftnoise.pdf)
 
 ## What's inside
 
