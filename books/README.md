@@ -12,6 +12,5 @@
 - `Razavi_Analysis and Design of Data Converters` [download](https://raw.githubusercontent.com/mo-adel4/Data-Converter-Graduation-Project/main/books/Analysis%20and%20Design%20of%20Data%20Converters.pdf)
 
 
-https://github.com/mo-adel4/Data-Converter-Graduation-Project/blob/main/books/Analysis%20and%20Design%20of%20Data%20Converters.pdf
 
 
