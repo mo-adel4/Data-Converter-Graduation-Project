@@ -9,6 +9,8 @@ MATLAB example and reference paper on measuring signal and noise levels from an 
 | `fftNoise.m` | [Download](./fftNoise.m) |
 | `2012fftnoise.pdf` | [Download](./2012fftnoise.pdf) |
 
+`fftNoise.m`[download](https://raw.githubusercontent.com/mo-adel4/Data-Converter-Graduation-Project/main/fftNoise/fftNoise.m)
+
 ## What's inside
 
 - **`2012fftnoise.pdf`**: Paper by Hanspeter Schmid (FHNW/IME, 2012). It explains how windowing (coherent gain, noise gain, scallop loss) affects signal and noise in an FFT, how averaging reduces spectrum variance, and how to correctly read signal RMS, noise density, and band power from MATLAB's `pwelch` output.
