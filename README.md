@@ -31,15 +31,8 @@ Link: [Model Files – Learning Microelectronics](https://analogicdesign.com/stu
 
 ---
 
-## 📅 Meeting Schedule
+## 📁 Project Structure
 
-| # | Date | Day | Tasks | Notes |
-|---|---|---|---|---|
-| 1 | 11 July 2026 | Saturday | ch(1-2) from Razavi, ch(9) from Baker | Project defined: mixed-signal Data Converter. Tools & books decided. |
-| 2 | 25 July 2026 | Saturday |  | Each member presented the work completed and progress made. |
-| 3 | 01 August 2026 | Saturday | Ch. 20 — Jacob | First section of Chapter 20 was explained. |
-| 4 | 04 August 2026 | Tuesday | Ch. 21 — Jacob, Single-Stage Amplifiers — Razavi | Completed the remaining sections of Ch. 20, including cascoding and current mirrors. |
+- **Precourse Materials**: [Source follower](./Source%20follower/README.md) - Educational materials on voltage follower circuit intuitions (prerequisite for understanding the data converter project).
 
-## 📁 Project Folders
-
-- [Source follower](./Source%20follower/README.md) - Educational materials on voltage follower circuit intuitions.
+- **Main Project**: Mixed-Signal Data Converter - The core graduation project aiming to design and implement a mixed-signal data converter system.
