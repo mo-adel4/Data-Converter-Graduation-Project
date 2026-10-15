@@ -40,3 +40,6 @@ Link: [Model Files – Learning Microelectronics](https://analogicdesign.com/stu
 | 3 | 01 August 2026 | Saturday | Ch. 20 — Jacob | First section of Chapter 20 was explained. |
 | 4 | 04 August 2026 | Tuesday | Ch. 21 — Jacob, Single-Stage Amplifiers — Razavi | Completed the remaining sections of Ch. 20, including cascoding and current mirrors. |
 
+## 📁 Project Folders
+
+- [Source follower](./Source%20follower/README.md) - Educational materials on voltage follower circuit intuitions.
