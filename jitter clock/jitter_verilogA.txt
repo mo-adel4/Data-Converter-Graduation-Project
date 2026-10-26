@@ -1,0 +1,77 @@
+
+`include "constants.vams"
+`include "disciplines.vams"
+
+module jitter_clock(clk);
+
+    output clk;
+    electrical clk;
+
+    // Clock parameters
+    parameter real fclk = 5e9;
+    parameter real VDD  = 0.8;
+    parameter real VSS  = 0.0;
+
+    // RMS edge jitter
+    parameter real sigma_jitter = 250e-15;
+
+    parameter real tr = 1p;
+    parameter real tf = 1p;
+
+    real T;
+    real half_T;
+
+    real ideal_edge;
+    real actual_edge;
+    real jitter;
+
+    integer seed;
+    integer state;
+
+    analog begin
+
+        @(initial_step) begin
+            seed = 12345;
+
+            T = 1.0/fclk;
+            half_T = T/2.0;
+
+            state = 0;
+
+            // First ideal edge
+            ideal_edge = half_T;
+
+            // First edge jitter
+            jitter = sigma_jitter *
+                     $rdist_normal(seed, 0, 1);
+
+            actual_edge = ideal_edge + jitter;
+        end
+
+        @(timer(actual_edge)) begin
+
+            // Toggle clock
+            state = 1 - state;
+
+            // Advance ideal edge position
+            ideal_edge = ideal_edge + half_T;
+
+            // Generate independent Gaussian edge jitter
+            jitter = sigma_jitter *
+                     $rdist_normal(seed, 0, 1);
+
+            // Schedule next actual edge
+            actual_edge = ideal_edge + jitter;
+
+        end
+
+        V(clk) <+ transition(
+            state ? VDD : VSS,
+            0,
+            tr,
+            tf
+        );
+
+    end
+
+endmodule
